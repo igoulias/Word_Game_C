@@ -10,5 +10,5 @@ Test cases can be found in project2014files
 
 How to run:
 1. Compile
-2. ./project.c LENGTH STEPS DICTIONARY
+2. ./project LENGTH STEPS DICTIONARY
 
